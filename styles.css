@@ -1,0 +1,26 @@
+#box {
+    text-align: center;
+    background-color: #eebbc3;
+    padding: 7px;
+    border-radius: 50px;
+    width: 500;
+}
+
+body {
+    background-color: #232946;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+button {
+    color: #232946;
+    
+}
+
+h1, p {
+    color: #232946;
+}
+
